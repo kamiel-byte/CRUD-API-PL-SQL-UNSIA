@@ -5,7 +5,7 @@ nama_lengkap VARCHAR (50) NOT NULL,
 lulusan VARCHAR (5) NOT NULL
 )
 
--Fungsi Read
+--Fungsi Read
 SELECT * FROM tb_pegawai
 
 INSERT INTO tb_pegawai (nip,nama_lengkap,lulusan)
